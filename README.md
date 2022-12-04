@@ -1,6 +1,6 @@
 # planer
 
-This template should help get you started developing with Vue 3 in Vite.
+[![Wallaby.js](https://img.shields.io/badge/wallaby.js-powered-blue.svg?style=for-the-badge&logo=github)](https://wallabyjs.com/oss/)
 
 ## Recommended IDE Setup
 
